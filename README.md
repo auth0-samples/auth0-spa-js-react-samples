@@ -1,13 +1,13 @@
 # Auth0 React Samples
 
-[![CircleCI](https://circleci.com/gh/auth0-samples/auth0-react-samples.svg?style=svg)](https://circleci.com/gh/auth0-samples/auth0-react-samples)
+[![CircleCI](https://circleci.com/gh/auth0-samples/auth0-spa-js-react-samples.svg?style=svg)](https://circleci.com/gh/auth0-samples/auth0-spa-js-react-samples)
 
 This is the sample code for the [Auth0 React Quickstart](https://auth0.com/docs/quickstart/spa/react).
 
 There are two sample applications:
 
-* [01 - Login](./01-Login) — demonstrates logging in and viewing profile information
-* [03 - Calling an API](./03-Calling-an-API) — demonstrates how to call a third-party API using access tokens
+- [Login](./01-Login) — demonstrates logging in and viewing profile information
+- [Calling an API](./02-Calling-an-API) — demonstrates how to call a third-party API using access tokens
 
 ## What is Auth0?
 

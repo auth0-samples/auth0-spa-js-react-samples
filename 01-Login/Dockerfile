@@ -21,7 +21,7 @@ FROM node:10-alpine
 
 RUN mkdir -p /app/build
 
-RUN apk update && apk upgrade && apk add yarn
+RUN apk update && apk upgrade && apk add yarn git
 
 WORKDIR /app
 
